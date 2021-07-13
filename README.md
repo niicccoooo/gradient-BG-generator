@@ -1,2 +1,2 @@
 # gradient-BG-generator
-Gradient background generator for CSS
+Gradient background generator for CSS to practice since I'm getting my first experience with the DOM :)
